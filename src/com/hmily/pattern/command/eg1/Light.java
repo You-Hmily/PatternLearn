@@ -5,6 +5,8 @@ package com.hmily.pattern.command.eg1;
  */
 public class Light {
 
+
+
     public void on(){
          System.out.println("Light is on");
     }
