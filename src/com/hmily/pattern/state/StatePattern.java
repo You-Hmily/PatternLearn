@@ -5,5 +5,5 @@ package com.hmily.pattern.state;
  * 状态模式
  */
 public class StatePattern {
-    
+
 }
