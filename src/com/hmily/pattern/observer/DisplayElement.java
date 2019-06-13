@@ -5,6 +5,6 @@ package com.hmily.pattern.observer;
  */
 public interface DisplayElement {
 
-    public void display();
+    void display();
 
 }
