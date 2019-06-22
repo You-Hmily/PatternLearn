@@ -1,8 +1,8 @@
-package com.hmily.pattern.singleton;
+package org.hmily.pattern.headfirst.singleton;
 
 /**
- * 线程安全模式
- * @author 码农
+ * 锟竭程帮拷全模式
+ * @author 锟斤拷农
  *
  */
 public class SynchronizedSingleton {

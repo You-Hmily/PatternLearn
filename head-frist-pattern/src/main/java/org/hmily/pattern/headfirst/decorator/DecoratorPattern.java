@@ -1,4 +1,4 @@
-package com.hmily.pattern.decorator;
+package org.hmily.pattern.headfirst.decorator;
 
 import com.hmily.pattern.observer.CurrentConditionsDisplay;
 import com.hmily.pattern.observer.WeatherData;

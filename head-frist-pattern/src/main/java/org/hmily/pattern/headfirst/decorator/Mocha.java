@@ -1,4 +1,4 @@
-package com.hmily.pattern.decorator;
+package org.hmily.pattern.headfirst.decorator;
 
 /**
  * Created by Administrator on 2018/8/16.

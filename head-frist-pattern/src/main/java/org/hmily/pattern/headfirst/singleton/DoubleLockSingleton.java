@@ -1,7 +1,7 @@
-package com.hmily.pattern.singleton;
+package org.hmily.pattern.headfirst.singleton;
 
 /**
- * 双重加锁模式
+ * 双锟截硷拷锟斤拷模式
  * @author zyzhmily
  *
  */

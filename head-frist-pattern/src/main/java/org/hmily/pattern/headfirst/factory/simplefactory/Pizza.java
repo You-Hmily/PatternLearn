@@ -1,8 +1,8 @@
-package com.hmily.pattern.factory.simplefactory;
+package org.hmily.pattern.headfirst.factory.simplefactory;
 
 /**
- * pizza Àà
- * @author ÂëÅ©
+ * pizza ï¿½ï¿½
+ * @author ï¿½ï¿½Å©
  *
  */
 public class Pizza{

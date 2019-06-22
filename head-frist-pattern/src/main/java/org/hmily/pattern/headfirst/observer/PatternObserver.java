@@ -1,4 +1,4 @@
-package com.hmily.pattern.observer;
+package org.hmily.pattern.headfirst.observer;
 
 /**
  * Created by zyzhmily on 2018/5/19.

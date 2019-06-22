@@ -1,7 +1,7 @@
-package com.hmily.pattern.factory.simplefactory;
+package org.hmily.pattern.headfirst.factory.simplefactory;
 
 /**
- * ¼òµ¥ÅûÈø¹¤³§
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  * @author zyzhmily
  *
  */

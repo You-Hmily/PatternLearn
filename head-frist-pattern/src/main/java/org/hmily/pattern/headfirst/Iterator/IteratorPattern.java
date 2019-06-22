@@ -1,4 +1,4 @@
-package com.hmily.pattern.Iterator;
+package org.hmily.pattern.headfirst.Iterator;
 
 /**
  * Created by zyzhmily on 2018/8/27.

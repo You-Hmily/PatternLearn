@@ -1,4 +1,4 @@
-package com.hmily.pattern.Adapter.eg2;
+package org.hmily.pattern.headfirst.Adapter.eg2;
 
 import java.util.Iterator;
 

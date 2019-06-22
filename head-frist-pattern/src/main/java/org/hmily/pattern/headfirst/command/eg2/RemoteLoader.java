@@ -1,4 +1,4 @@
-package com.hmily.pattern.command.eg2;
+package org.hmily.pattern.headfirst.command.eg2;
 
 import com.hmily.pattern.command.eg1.Light;
 import com.hmily.pattern.command.eg1.LightOnCommand;

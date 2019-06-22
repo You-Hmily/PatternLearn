@@ -1,4 +1,4 @@
-package com.hmily.pattern.templatemethod;
+package org.hmily.pattern.headfirst.templatemethod;
 
 /**
  * Created by zyzhmily on 2018/8/23.

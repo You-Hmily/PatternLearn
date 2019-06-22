@@ -1,4 +1,4 @@
-package com.hmily.pattern.observer;
+package org.hmily.pattern.headfirst.observer;
 
 import java.util.ArrayList;
 

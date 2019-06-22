@@ -1,4 +1,4 @@
-package com.hmily.pattern.factory.simplefactory;
+package org.hmily.pattern.headfirst.factory.simplefactory;
 
 public class CheesePizza extends Pizza {
 

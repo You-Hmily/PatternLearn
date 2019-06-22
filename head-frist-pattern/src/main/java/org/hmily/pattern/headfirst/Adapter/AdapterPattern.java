@@ -1,4 +1,4 @@
-package com.hmily.pattern.Adapter;
+package org.hmily.pattern.headfirst.Adapter;
 
 /**
  * Created by zyzhmily on 2018/8/23.

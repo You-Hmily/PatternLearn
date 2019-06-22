@@ -1,4 +1,4 @@
-package com.hmily.pattern.command.eg1;
+package org.hmily.pattern.headfirst.command.eg1;
 
 /**
  * Created by zyzhmily on 2018/8/17.

@@ -1,9 +1,9 @@
-package com.hmily.pattern.singleton;
+package org.hmily.pattern.headfirst.singleton;
 
 
 /**
- * ÀÁººÊ½
- * @author ÂëÅ©
+ * ï¿½ï¿½ï¿½ï¿½Ê½
+ * @author ï¿½ï¿½Å©
  *
  */
 public class LazySingleton {

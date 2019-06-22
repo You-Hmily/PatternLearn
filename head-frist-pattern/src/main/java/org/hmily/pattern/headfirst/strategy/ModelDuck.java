@@ -1,4 +1,4 @@
-package com.hmily.pattern.strategy;
+package org.hmily.pattern.headfirst.strategy;
 
 /**
  * Created by zyzhmily on 2018/5/19.
