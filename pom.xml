@@ -11,6 +11,7 @@
   <modules>
     <module>head-frist-pattern</module>
     <module>graphic-design-pattern</module>
+      <module>AgileSoftwareDevelopment-PrinciplesPatternsAndPractices</module>
   </modules>
 
   <name>PatternLearn</name>
